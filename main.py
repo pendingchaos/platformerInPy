@@ -436,7 +436,7 @@ class Level:
 		
 		self.sprites = SpriteGroup()
 		
-		self.fps = 20
+		self.fps = 40
 		
 		self.lheight = len(level) * 50
 		self.lwidth = len(level[0]) * 50
